@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Bouchier bowled for a duck as England bat first v India",
+            "description": "Follow live text updates as England face India in the third and final T20 at the Wankhede Stadium in Mumbai.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/67440604",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-12-10T13:37:23.9248253Z",
+            "content": "England: Sophia Dunkley, Maia Bouchier, Alice Capsey, Heather Knight (capt), Amy Jones (wk), Danielle Gibson, \r\nBess Heath, Freya Kemp, Sophie Ecclestone, Charlie Dean, Mahika Gaur. \r\nIndia: Smriti M… [+505 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "The Indian Express",
+            "title": "India vs South Africa Live Score: Toss delayed due to rain in 1st T20 in Durban - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvaW5kaWEtdnMtc291dGgtYWZyaWNhLWxpdmUtc2NvcmUtMXN0LXQyMC1pbmQtdnMtc2Etc2NvcmVjYXJkLXVwZGF0ZXMta2luZ3NtZWFkLWR1cmJhbi05MDYyMTMxL9IBlAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvaW5kaWEtdnMtc291dGgtYWZyaWNhLWxpdmUtc2NvcmUtMXN0LXQyMC1pbmQtdnMtc2Etc2NvcmVjYXJkLXVwZGF0ZXMta2luZ3NtZWFkLWR1cmJhbi05MDYyMTMxL2xpdGUv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-10T13:30:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kevin Hand",
+            "title": "LIVE: South Africa vs India – T20 cricket match",
+            "description": "Follow our live updates as South Africa host India in the first T20 international of their three-match series.",
+            "url": "http://www.aljazeera.com/sports/liveblog/2023/12/10/live-south-africa-vs-india-t20-cricket-match",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-11-20T231338Z_1487796443_RC2CG4ABS406_RTRMADP_3_CRICKET-T20-IND-AUS-1702200830-1702205476.jpg?resize=1200%2C630&quality=80",
+            "publishedAt": "2023-12-10T12:00:46Z",
+            "content": "blinking-dot\r\nLive updatesLive updates, \r\nFollow our live updates as South Africa host India in the first T20 international of their three-match series."
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "sport",
+            "title": "Test of strength in depth as Proteas face India in Durban",
+            "description": "South Africa and India will both be testing their strength in depth when they meet in two white-ball series, starting with a T20 international at Kingsmead in Durban.",
+            "url": "https://www.news24.com/sport/cricket/proteas/test-of-strength-in-depth-as-proteas-face-india-in-durban-20231210",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7059/e7cd4deac6fd40a681385b60919cbd9e.png",
+            "publishedAt": "2023-12-10T09:13:53",
+            "content": "<ul><li>The depth of both teams will be tested when the Proteas take on India in the much-anticipated opening T20 at Kingsmead on Sunday.</li><li>The Proteas look to rebuild and continue where they l… [+3879 chars]"
+        }
+    ]
+}
